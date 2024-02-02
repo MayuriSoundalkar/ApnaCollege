@@ -1,4 +1,4 @@
 # ApnaCollege
 My first git repositary
 <br>
-Author : Mayuri Soundalkar
+Author : Mayuri Soundalkar(DYP)
